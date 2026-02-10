@@ -53,8 +53,7 @@ The most interesting idea that I got from the video is that the brain has two di
 
 - I will understand where the concept is used in real life or projects  
 - I will explain the concept in my own simple words  
-- I will write code or design solutions using the concept  
-- I will decide a clear time by which I will finish practice or assignments  
+
 
 ---
 
