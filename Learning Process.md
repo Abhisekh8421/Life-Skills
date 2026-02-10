@@ -57,7 +57,4 @@ The most interesting idea that I got from the video is that the brain has two di
 
 ---
 
-## Final Understanding
 
-- I know I have learned something well when I can teach it confidently  
-- I do not need to learn everything, but I should master a few skills properly  
