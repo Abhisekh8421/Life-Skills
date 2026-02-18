@@ -14,11 +14,11 @@ Habits rule most of my life. Good habits bring improvement, while bad habits hin
 
 **Most interesting idea for me**
 
-The most interesting idea for me was to start very small.
+The most interesting idea to me was to start very small.
 
-BJ Fogg’s idea is that if I want to create a habit, I need to make it ridiculously small. For instance, I can start with only 2 push-ups. It sounds silly, but that is the point. If the habit is small enough, my brain will accept it.
+The idea behind BJ Fogg's theory is that in order to build a habit, I must make it  small. For instance, I can do only 2 push-ups. Yes, it sounds ridiculous, but that's what I'm aiming for. If it's small enough, my brain will accept it.
 
-I have come to understand that I tend to fail because I start too big. Instead of studying for 3 hours, I can start with just 5 minutes.
+I've realized that I tend to fail because I'm starting too big. Instead of studying for 3 hours, I can study for only 5 minutes.
 
 ---
 
@@ -26,25 +26,24 @@ I have come to understand that I tend to fail because I start too big. Instead o
 
 ## Question 2
 
-**What is B = MAP and how I will use it**
+What is B = MAP and how will I use it
 
-B = MAP stands for:
+B = MAP is:
 
-* **B = Behaviour**
-* **M = Motivation**
-* **A = Ability**
-* **P = Prompt**
+- B = Behaviour
+- M = Motivation
+- A = Ability
+- P = Prompt
 
-Behaviour occurs when these four come together.
+Behaviour occurs when all four elements fit together.
 
-Motivation – How much I feel like doing it.
-Ability – How easy the task is.
-Prompt – Reminder or trigger.
+Motivation - How much I want to do it.
+Ability - How easy it is to do it.
+Prompt - Something that reminds me to do it.
 
-I understood that motivation varies every day. Therefore, instead of relying on motivation, I need to make the habit easy.
+My motivation will change from day to day. So instead of relying on motivation to do it, I will make it an easy habit.
 
-Example:
-After I sit at my desk (prompt), I will solve 1 question (easy habit).
+
 
 ---
 
@@ -68,21 +67,20 @@ Whatever I celebrate becomes my habit.
 
 ## Question 4
 
-**Most interesting idea for me**
+Most Interesting Idea for Me
 
-The idea of improving just 1% daily was very powerful for me.
+The idea of making 1% better every day was very powerful for me. 
 
-If I become 1% better every day, after one year I will improve a lot.
+If I get 1% better every day, then after a year I will be a lot better. 
 
-I understood that I don’t need big change in one day. I just need small daily improvement.
+I realized I don’t need one big change in a day. I just need small improvements every day. 
 
-For example:
+Examples:
 
-* 1 coding question daily
-* 5 pages reading daily
-* 10 minutes communication practice
+- 1 coding problem every day
+- 10 minutes every day on communication
 
-Small steps give big results.
+Small improvements add up to big results.
 
 ---
 
@@ -92,7 +90,7 @@ Small steps give big results.
 
 **Book’s idea about Identity**
 
-The book states that habits are related to identity.
+The book says that “habits are connected to who you are.”
 
 Rather than:
 “I want to clear interview”
@@ -100,9 +98,7 @@ Rather than:
 I should:
 “I am becoming a disciplined person.”
 
-Every small step is a vote for my identity.
-
-If I study every day, I am becoming a serious learner.
+Every small step is about who I am becoming.
 If I exercise every day, I am becoming a healthy person.
 
 ---
@@ -111,14 +107,24 @@ If I exercise every day, I am becoming a healthy person.
 
 **How to make a habit easier**
 
-There are 4 rules given in the book:
+According to James Clear’s *Atomic Habits*, to make the habit easier, the ideas are as follows:
 
-1. Make it Obvious – Keep book on table.
-2. Make it Attractive – Do habit in pleasant way.
-3. Make it Easy – Start with 2 minutes.
-4. Make it Satisfying – Track progress.
+- Make it obvious – Place things in front of me.
+  Example: Keep the book in front of me if I want to read it.
 
-If habit is easy and satisfying, I will continue it.
+- Make it attractive – Associate it with something I like.
+  
+
+- Make it easy – Start with something very small.
+  
+
+- Reduce friction – Make it easy to start the habit.
+ 
+
+- Make it satisfying – Reward myself.
+  Example: Give myself a small reward by putting a mark on the calendar after I finish the habit.
+
+According to the book, small habits add up, and they can become big habits in the long run.
 
 ---
 
@@ -126,14 +132,19 @@ If habit is easy and satisfying, I will continue it.
 
 **How to make a habit harder**
 
-To overcome bad habits:
+To stop a bad habit, do the reverse:
 
-1. Make it Invisible – Keep phone away.
-2. Make it Unattractive – Think about bad results.
-3. Make it Hard – Log out of apps.
-4. Make it Unsatisfying – Feel accountable.
+Make it invisible: Remove the cue.
+Example: Keep your phone away when you study.
 
-If it becomes difficult, I will reduce it.
+Make it unattractive: Remind yourself of the negative consequences.
+Example: Junk food is bad for your health.
+
+Make it hard: Add friction.
+Example: Uninstall social media apps or log out every time.
+
+Make it unsatisfying: Add a negative consequence.
+Example: Share your goal with a friend to make yourself accountable.
 
 ---
 
@@ -143,12 +154,21 @@ If it becomes difficult, I will reduce it.
 
 **Habit I want to improve: Daily DSA Practice**
 
-Steps I will take:
+I want to code every day since it will help me solve problems in a better way.
 
-Make it Obvious – Keep laptop ready.
-Make it Attractive – Practice after tea time.
-Make it Easy – Solve 1 easy question daily.
-Make it Satisfying – Mark in calendar.
+In order to form this habit, I need to follow these steps:
+
+- Make the cue obvious –
+  I will keep my laptop on the study table with the coding site open before I go to bed.
+
+- Make it attractive –
+  I will look at it as a small challenge and code after tea since I will be awake.
+
+- Make it easy –
+  I will solve just one simple problem every day. I will just need 15 minutes to do this.
+
+- Make it satisfying –
+  I will put a checkmark on my calendar to track my progress every day. I will also praise myself by saying good job after completing my task.
 
 ---
 
@@ -172,4 +192,4 @@ Celebrate small wins.
 Improve 1% daily.
 Focus on identity.
 
-If I follow these ideas daily, slowly I can change my life in a big way.
+
