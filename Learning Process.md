@@ -9,7 +9,7 @@ Feynman Technique: A technique to understand something by explaining it in simpl
 ---
 
 ## Question 2  
-### Most interesting idea from the video *Learning How to Learn*
+### Most interesting idea from the video 
 
 The most interesting thing that I learned from the video is that the human brain uses two different ways of thinking, and we need to use them to be able to learn. The video also shows that it is not a waste of time to take a break.
 
