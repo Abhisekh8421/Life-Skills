@@ -4,7 +4,7 @@
 
 Deep work is the process of committing yourself entirely to one task without any distractions.
 
-It also includes avoiding shallow tasks such as reading your emails or browsing your phone. This concentration saves a lot of time too.
+It also includes avoiding tasks such as reading your emails or browsing your phone. This concentration saves a lot of time too.
  
 According to Cal Newport, this kind of focus is not common in today’s world, and it will make you more valuable in your profession.
 
